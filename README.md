@@ -1,3 +1,5 @@
+![Chest X-Ray Pneumonia Detection Cover](results/figures/project_cover.png)
+
 # Chest X-Ray Pneumonia Detection using DenseNet121
 
 ## Overview
