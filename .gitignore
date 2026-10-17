@@ -1,0 +1,31 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment and temporary files
+.venv/
+venv/
+env/
+pip-temp/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+data/
+*.zip
+
+# Model checkpoints
+models/*.pth
+models/*.pt
+models/*.ckpt
+
+# Secrets and logs
+.env
+.env.*
+*.log
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
